@@ -1,2 +1,0 @@
-# albany
-Description Optional
